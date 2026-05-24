@@ -444,12 +444,7 @@ Maximum file size: **10 MB**
 - File validation checks extension and size before processing
 
 ---
-## screenshots
-
-<img width="1848" height="981" alt="image" src="https://github.com/user-attachments/assets/f180e8d6-2335-47d5-b203-7b7f4caca351" />
-<img width="1741" height="978" alt="image" src="https://github.com/user-attachments/assets/6e6da1cb-eea5-4d67-819a-81b5020cf21d" />
-<img width="1772" height="967" alt="image" src="https://github.com/user-attachments/assets/b9055a0c-6691-4511-b252-fb680eaac24c" />
-
+## screenshots ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005806.png) ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005829.png) ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005852.png)
 
 ---
 
