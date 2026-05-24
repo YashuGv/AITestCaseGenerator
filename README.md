@@ -444,7 +444,7 @@ Maximum file size: **10 MB**
 - File validation checks extension and size before processing
 
 ---
-## Screenshots
+## screenshots
 
 <img width="1848" height="981" alt="image" src="https://github.com/user-attachments/assets/f180e8d6-2335-47d5-b203-7b7f4caca351" />
 
