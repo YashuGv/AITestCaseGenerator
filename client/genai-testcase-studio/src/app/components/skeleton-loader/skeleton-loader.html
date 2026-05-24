@@ -1,0 +1,26 @@
+<div class="p-4 flex flex-col gap-3">
+
+  <!-- Header skeleton -->
+  <div class="flex justify-between items-center mb-1">
+    <div class="skeleton-shimmer h-3 w-40 rounded-full"></div>
+    <div class="skeleton-shimmer h-3 w-20 rounded-full"></div>
+  </div>
+
+  <!-- Card skeletons -->
+   @for(i of skeletonItems; track i;){
+      <div
+        class="border border-slate-100 rounded-xl p-4 flex flex-col gap-2.5">
+      <div class="flex justify-between">
+        <div class="skeleton-shimmer h-3 w-16 rounded-full"></div>
+        <div class="flex gap-2">
+          <div class="skeleton-shimmer h-3 w-14 rounded-full"></div>
+          <div class="skeleton-shimmer h-3 w-12 rounded-full"></div>
+        </div>
+      </div>
+      <div class="skeleton-shimmer h-3 w-3/4 rounded-full"></div>
+      <div class="skeleton-shimmer h-3 w-full rounded-full"></div>
+      <div class="skeleton-shimmer h-3 w-5/6 rounded-full"></div>
+      <div class="skeleton-shimmer h-3 w-2/3 rounded-full"></div>
+    </div>
+   }
+</div>

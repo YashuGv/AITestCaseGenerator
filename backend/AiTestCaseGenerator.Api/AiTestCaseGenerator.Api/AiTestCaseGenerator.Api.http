@@ -1,0 +1,6 @@
+@AiTestCaseGenerator.Api_HostAddress = http://localhost:5071
+
+GET {{AiTestCaseGenerator.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|c:\\users\\yasaswiniv\\music\\aitestcasegenerator\\backend\\aitestcasegenerator.api\\aitestcasegenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|solutionrelative:aitestcasegenerator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|c:\\users\\yasaswiniv\\music\\aitestcasegenerator\\backend\\aitestcasegenerator.api\\aitestcasegenerator.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|solutionrelative:aitestcasegenerator.api\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|c:\\users\\yasaswiniv\\music\\aitestcasegenerator\\backend\\aitestcasegenerator.api\\aitestcasegenerator.api\\controllers\\testcasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|solutionrelative:aitestcasegenerator.api\\controllers\\testcasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|c:\\users\\yasaswiniv\\music\\aitestcasegenerator\\backend\\aitestcasegenerator.api\\aitestcasegenerator.api\\dtos\\generateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|solutionrelative:aitestcasegenerator.api\\dtos\\generateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|c:\\users\\yasaswiniv\\music\\aitestcasegenerator\\backend\\aitestcasegenerator.api\\aitestcasegenerator.api\\dtos\\generaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EF8041D-E694-4C1C-9A95-335E5ABB61FF}|AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api.csproj|solutionrelative:aitestcasegenerator.api\\dtos\\generaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerateResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Dtos\\GenerateResponseDto.cs",
+              "RelativeDocumentMoniker": "AiTestCaseGenerator.Api\\Dtos\\GenerateResponseDto.cs",
+              "ToolTip": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Dtos\\GenerateResponseDto.cs",
+              "RelativeToolTip": "AiTestCaseGenerator.Api\\Dtos\\GenerateResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T15:05:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCasesController.cs",
+              "DocumentMoniker": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Controllers\\TestCasesController.cs",
+              "RelativeDocumentMoniker": "AiTestCaseGenerator.Api\\Controllers\\TestCasesController.cs",
+              "ToolTip": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Controllers\\TestCasesController.cs",
+              "RelativeToolTip": "AiTestCaseGenerator.Api\\Controllers\\TestCasesController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T14:43:31.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AiTestCaseGenerator.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Program.cs",
+              "RelativeToolTip": "AiTestCaseGenerator.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:44:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "AiTestCaseGenerator.Api\\Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Services\\AIService.cs",
+              "RelativeToolTip": "AiTestCaseGenerator.Api\\Services\\AIService.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAADwv5MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:39:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Dtos\\GenerateRequestDto.cs",
+              "RelativeDocumentMoniker": "AiTestCaseGenerator.Api\\Dtos\\GenerateRequestDto.cs",
+              "ToolTip": "C:\\Users\\YasaswiniV\\Music\\AITestCaseGenerator\\backend\\AiTestCaseGenerator.Api\\AiTestCaseGenerator.Api\\Dtos\\GenerateRequestDto.cs",
+              "RelativeToolTip": "AiTestCaseGenerator.Api\\Dtos\\GenerateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T13:37:03.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AiTestCaseGenerator.Api.Controllers.TestCasesController",
+    "Method": "Generate",
+    "RelativePath": "api/TestCases/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "OutputType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Instructions",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
