@@ -444,10 +444,11 @@ Maximum file size: **10 MB**
 - File validation checks extension and size before processing
 
 ---
-## screenshots
+## Screenshots 
 
-<img width="1848" height="981" alt="image" src="https://github.com/user-attachments/assets/f180e8d6-2335-47d5-b203-7b7f4caca351" />
-
+- ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005806.png)
+- ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005829.png)
+- ![App Preview](docs/Screenshots/Screenshot 2026-05-24 005852.png)
 
 ---
 
